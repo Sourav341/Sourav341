@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Sourav341
 - 👀 I’m interested in CODING.
 - 🌱 I’m currently learning Core Java, Angular, Python, MySql. 
-- 💞️ I’m looking to collaborate on python and Core Java based projects.
+- 💞️ I’m looking forward to collaborate on Python and Core Java based projects.
 - 📫 How to reach me email id : rajsourav.singh58@gmail.com
 
 <!---
