@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Sourav341
 - 👀 interested in CODING.
-- 🌱 Core Java, Angular, Python, MySql. 
-- 💞️ I’m looking forward to collaborate on Python and Core Java Full Stack Developer with web Automation based projects.
+- 🌱 Core Java, Python, MySql, QA Automation. 
+- 💞️ I’m looking forward to collaborate on Core Java Full Stack Developer with web Automation based projects.
 - 📫 How to reach me email id : rajsourav.singh58@gmail.com
 
 <!---
