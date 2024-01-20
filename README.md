@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Sourav341
 - 👀 interested in CODING.
-- 🌱 Core Java, Python, MySql, QA Automation. 
-- 💞️ I’m looking forward to collaborate on Core Java Full Stack Developer with web Automation based projects.
-- 📫 How to reach me email id : rajsourav.singh58@gmail.com
+- 🌱 Core Java, Python, MySql, DSA, React-native, React.js, Frontend Development, Backend Development, QA Web Automation, Manual Testing.
+- 💞️ I look forward to collaborating on Java Full Stack Developer with web Automation projects.
+- 📫 How to reach my email id: rajsourav.singh58@gmail.com
 
 <!---
 Sourav341/Sourav341 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
