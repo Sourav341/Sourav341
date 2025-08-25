@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Sourav341
-- 👀 interested in CODING.
-- 🌱 Core Java, Python, MySQL, DSA, Backend Development, QA Web Automation, Manual Testing.
-- 💞️ I look forward to collaborating on Java Full Stack Developer with web Automation projects.
+- 👀 Interested in Development.
+- 🌱 Core Java, Python, MySQL, DSA, Backend Development, QA, Web Automation, Manual Testing.
+- 💞️ I look forward to collaborating on Full Stack Developer with web Automation projects.
 - 📫 How to reach my email id: rajsourav.singh58@gmail.com
 
 <!---
