@@ -1,0 +1,13 @@
+{
+  "name": "sourav341-github-profile",
+  "version": "1.0.0",
+  "description": "Animated terminal-style GitHub profile with a contribution jet heatmap",
+  "type": "module",
+  "engines": {
+    "node": ">=18"
+  },
+  "scripts": {
+    "generate": "node generate.mjs",
+    "preview": "node preview-test.mjs"
+  }
+}

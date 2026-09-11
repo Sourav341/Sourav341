@@ -1,0 +1,21 @@
+<tspan x="32" y="86.00" xml:space="preserve">              .-&#x27;&#x27;&#x27;&#x27;&#x27;&#x27;&#x27;&#x27;-.</tspan>
+<tspan x="32" y="97.60" xml:space="preserve">           .-&#x27;            &#x27;-.</tspan>
+<tspan x="32" y="109.20" xml:space="preserve">         .&#x27;   .-&#x27;&#x27;&#x27;&#x27;&#x27;&#x27;&#x27;&#x27;-.   &#x27;.</tspan>
+<tspan x="32" y="120.80" xml:space="preserve">        /    /   _    _   \    \</tspan>
+<tspan x="32" y="132.40" xml:space="preserve">       ;    ;   (o)  (o)   ;    ;</tspan>
+<tspan x="32" y="144.00" xml:space="preserve">       |    |       /       |    |</tspan>
+<tspan x="32" y="155.60" xml:space="preserve">       |    |     .---.     |    |</tspan>
+<tspan x="32" y="167.20" xml:space="preserve">       ;    ;    /_____.    ;    ;</tspan>
+<tspan x="32" y="178.80" xml:space="preserve">        \    \    \___/    /    /</tspan>
+<tspan x="32" y="190.40" xml:space="preserve">         &#x27;.   &#x27;._       _.&#x27;   .&#x27;</tspan>
+<tspan x="32" y="202.00" xml:space="preserve">           &#x27;-.   &#x27;-----&#x27;   .-&#x27;</tspan>
+<tspan x="32" y="213.60" xml:space="preserve">              &#x27;----------&#x27;</tspan>
+<tspan x="32" y="225.20" xml:space="preserve">             /|   ||||   |\</tspan>
+<tspan x="32" y="236.80" xml:space="preserve">            / |   ||||   | \</tspan>
+<tspan x="32" y="248.40" xml:space="preserve">           /__|___||||___|__\</tspan>
+<tspan x="32" y="260.00" xml:space="preserve">              |   ||||   |</tspan>
+<tspan x="32" y="271.60" xml:space="preserve">             /|   ||||   |\</tspan>
+<tspan x="32" y="283.20" xml:space="preserve">            /_|___||||___|_\</tspan>
+<tspan x="32" y="294.80" xml:space="preserve">              /  / || \  \</tspan>
+<tspan x="32" y="306.40" xml:space="preserve">             /__/  ||  \__\</tspan>
+<tspan x="32" y="318.00" xml:space="preserve">            SOFTWARE DEVELOPER</tspan>
